@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joel (@JoelRJ)
-- 👀 I’m interested in Android Development in Kotlin, back-end development and Python. 
-- 🌱 I’m currently learning Android Development and GCloud products.
-- 💞️ I’m looking to collaborate on my Capstone project!
+- 👀 I’m interested in Python, back-end development and Android Development in Kotlin. 
+- 🌱 I’m currently learning Android Development, GCloud products and practicing LeetCode.
+- 💞️ I'm currently looking for full-time opportunities!
 - 📫 You can reach me at JoelRidingJ@gmail.com
 
 <!---
