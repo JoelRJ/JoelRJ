@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Joel (@JoelRJ)
-- 👀 I’m interested in Golang back-end development and everything Python. 
-- 🌱 I’m currently building microservices in Golang.
+- 👀 I'm interested in full-stack, Golang, Java, Python, Vue.js and React.
 - 📫 You can reach me at JoelRidingJ@gmail.com
 
 <!---
